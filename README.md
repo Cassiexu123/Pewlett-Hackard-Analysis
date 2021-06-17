@@ -20,3 +20,5 @@ Select COUNT(emp_no), title
 from mentorship_eligibility
 GROUP BY title;
 
+![](summary_question.PNG)
+
