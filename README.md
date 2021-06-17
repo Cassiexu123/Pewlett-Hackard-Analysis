@@ -13,9 +13,9 @@ I helpped Bobby to find the number of retiring employees based on their current 
 - 
 ![](Mentorship_eligibility.PNG)
 # Summary
-What are the total number of retiring employees for all the job titles? 90,398
+- What are the total number of retiring employees for all the job titles? 90,398
 Select SUM(COUNT) from retiring_titles;
-What are the number of mentorship eligibility emaployees per each job title?
+- What are the number of mentorship eligibility emaployees per each job title?
 Select COUNT(emp_no), title 
 from mentorship_eligibility
 GROUP BY title;
