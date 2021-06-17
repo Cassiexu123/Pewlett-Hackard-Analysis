@@ -9,7 +9,7 @@ I helpped Bobby to find the number of retiring employees based on their current 
 ## Mentorship_eligibility table
 - Total 1549 employees are in the mentorship list. 
 - Their birth year are 1965 and still working currently.
--  
+
 # Summary
 What are the total number of retiring employees for all the job titles? 90,398
 Select SUM(COUNT) from retiring_titles;
