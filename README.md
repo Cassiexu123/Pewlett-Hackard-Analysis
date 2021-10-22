@@ -1,6 +1,6 @@
 # Pewlett_Hackard_Analysis
 ## Overview of the analysis
-I helpped Bobby to find the number of retiring employees based on their current job title and identify the specific employees who are eligible for mentorship program. 
+I helped Bobby to find the number of retiring employees based on their current job title and identify the specific employees who are eligible for mentorship program. 
 
 ## Results
 ### Retiring_titles table
